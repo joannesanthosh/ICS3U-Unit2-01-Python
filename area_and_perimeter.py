@@ -12,7 +12,7 @@ def main():
 
     print("If a circle has a radius of 15 mm: ")
     print("")
-    print("The area is {}mm².".format(math.pi * 15 ** 2))
+    print("The area is {}mm².".format(math.pi * 15**2))
     print("The perimeter is {}mm.".format(2 * math.pi * 15))
     print("")
     print("Done.")
